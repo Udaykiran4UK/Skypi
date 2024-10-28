@@ -1,0 +1,10 @@
+<resources>
+<string name="google_app_id">1:303386496023:android:593419ef3677c372e32052</string>
+<string name="gcm_defaultSenderId">303386496023</string>
+<string name="default_web_client_id">REPLACE_WITH_YOUR_WEB_CLIENT_ID</string>
+<string name="firebase_database_url">https://skypi-8a884.firebaseio.com</string>
+<string name="google_api_key">AIzaSyB_HQvQgeT_alcY5gptU5d6hu8q2fcItJs</string>
+<string name="google_crash_reporting_api_key">AIzaSyB_HQvQgeT_alcY5gptU5d6hu8q2fcItJs</string>
+<string name="project_id">skypi-8a884</string>
+<string name="storage_bucket">skypi-8a884.appspot.com</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303386496023",
+    "project_id": "skypi-8a884",
+    "storage_bucket": "skypi-8a884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303386496023:android:593419ef3677c372e32052",
+        "android_client_info": {
+          "package_name": "skypi.in.skypi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HQvQgeT_alcY5gptU5d6hu8q2fcItJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
